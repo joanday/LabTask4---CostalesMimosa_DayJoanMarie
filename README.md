@@ -14,6 +14,5 @@ This repository contains the SQL project for creating and enforcing referential 
 - GitHub for version control
 
 👩‍💻 Authors
-Costales, Mimosa
-Day, Joan Marie
+CostalesMimosa, DayJoan Marie
 
