@@ -13,6 +13,6 @@ This repository contains the SQL project for creating and enforcing referential 
 - MySQL Workbench 8.0
 - GitHub for version control
 
-👩‍💻 Authors
+👩‍💻 Authors:
 CostalesMimosa, DayJoanMarie
 
